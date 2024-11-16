@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>Contact</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" href="css/favco.ico">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="message">
+    <div class="pages">
+      <a class="hp" href="index.html"><strong>home</strong></a>
+    </div>
+    <div id="body-index">
+      <!-- Contact Section -->
+      <article id="contact" style="max-width: 600px; margin: 0 auto;">
+        <h2 class="big-title">Contact</h2>
+        <form onsubmit="sendEmail(); return false;" style="margin-bottom: 20px;">
+          <div class="fields" style="display: flex; flex-wrap: wrap; gap: 10px;">
+            <!-- Name Field -->
+            <div class="field half" style="flex: 1 1 48%;">
+              <label style="font-size: 4.5vh; margin-bottom: 5px;" class="subtitle" for="name">Name</label>
+              <input type="text" name="name" id="name" style="width: 100%; margin-top: 5px;" />
+            </div>
+            <!-- Email Field -->
+            <div class="field half" style="flex: 1 1 48%;">
+              <label class="subtitle" style="font-size: 4.5vh; margin-bottom: 5px;" for="email">Email</label>
+              <input type="text" name="email" id="email" style="width: 100%; margin-top: 5px;" />
+            </div>
+            <!-- Message Field -->
+            <div class="field" style="flex: 1 1 100%;">
+              <label class="subtitle" style="font-size: 4.5vh; margin-bottom: 5px;" for="message">Message</label>
+              <textarea name="message" id="message" rows="4" style="width: 100%; margin-top: 5px;"></textarea>
+            </div>
+          </div>
+          <!-- Submit and Reset Buttons -->
+          <ul class="actions" style="list-style: none; padding: 0; display: flex; gap: 10px; justify-content: center; margin-top: 10px;">
+            <li><input type="submit" value="Send Message" class="primary" style="padding: 10px 20px; cursor: pointer;" /></li>
+            <li><input type="reset" value="Reset" style="padding: 10px 20px; cursor: pointer;" /></li>
+          </ul>
+        </form>
+        <!-- Social Links -->
+        <ul class="icons" style="list-style: none; padding: 0; display: flex; gap: 10px; justify-content: center;">
+          <li><a href="https://www.linkedin.com/in/leonardespi/" class="icon brands fa-linkedin-in" style="text-decoration: none;">LinkedIn</a></li>
+          <li><a href="https://github.com/leonardespi" class="icon brands fa-github" style="text-decoration: none;">GitHub</a></li>
+        </ul>
+      </article>
+    </div>
+  </div>
+</body>
+</html>

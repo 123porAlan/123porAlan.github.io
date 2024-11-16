@@ -1,0 +1,29 @@
+---
+layout: default
+title: I'm a cloud architect 
+---
+
+<body>
+  <div class="message">
+    <div class="pages">
+      <a class="hp" href="/"><strong>home</strong></a>
+    </div>
+
+    <div id="body-index">
+      <!-- Título del blog -->
+      <h1 class="big-title">My Blog</h1>
+
+      <!-- Lista de publicaciones -->
+      <div class="my-heading-index">
+          <h2 class="subtitle">Recent Posts</h2>
+          <ul style="list-style: none; padding: 0;">
+            {% for post in site.posts %}
+            <li>
+              <a class="blog-heading" href="{{ post.url | relative_url }}">{{ post.title }}</a> <span class="date"> - {{ post.date | date_to_string }}</span>
+            </li>
+          {% endfor %}
+          </ul>
+      </div>
+  </div>
+
+</body>
