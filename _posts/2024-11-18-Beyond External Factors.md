@@ -5,7 +5,7 @@ date:   2024-11-18
 ---
 
 
-# The Power of Mindset: Beyond External Factors
+## The Power of Mindset: Beyond External Factors
 
 In the journey of life, it is common to observe how most people focus their attention on external factors to explain their circumstances. From morning traffic to job opportunities, there is a tendency to attribute events to chance or to forces outside our control. However, this perspective can cloud the understanding that, on many occasions, it is ourselves who, consciously or unconsciously, shape our own destiny.
 
