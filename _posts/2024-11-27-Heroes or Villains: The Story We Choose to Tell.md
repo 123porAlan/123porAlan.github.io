@@ -27,6 +27,4 @@ Being the hero of our story doesn’t mean being flawless; it means having the s
 
 The stories we tell ourselves shape how we navigate life. When we choose to tell the truth, even when it’s hard, we not only foster stronger relationships but also build a stronger sense of self. Growth is impossible without accountability, and accountability starts with acknowledging the full picture of our experiences.  
 
-In the end, the real triumph isn’t in avoiding mistakes—it’s in the bravery to face them, learn from them, and become better because of them. The heroes of their stories aren’t those who never fall, but those who rise each time with newfound wisdom and strength.  
-
-
+In the end, the real triumph isn’t in avoiding mistakes—it’s in the bravery to face them, learn from them, and become better because of them.
