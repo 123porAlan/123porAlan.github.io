@@ -74,17 +74,17 @@ If you’re using GitHub, GitLab, or similar, set up your SSH key to avoid passw
 
 1. Generate an SSH key (if you don’t already have one):
 
-```bash 
-ssh-keygen -t ed25519 -C "youremail@example.com"
+    ```bash 
+    ssh-keygen -t ed25519 -C "youremail@example.com"
 
-```
+    ```
 
 2. Copy your key:
 
-```bash
-cat ~/.ssh/id_ed25519.pub
+    ```bash
+    cat ~/.ssh/id_ed25519.pub
 
-```
+    ```
 3. Paste it into your GitHub or GitLab account. 🚀
 
 ## 🧙‍♂️ Mission Accomplished!
