@@ -4,7 +4,7 @@ title:  "Unlock the Power of Vim: Basic Commands Simplified.md"
 date:   2024-12-20
 ---
 
->Hello, code explorer! ✨ Welcome to the wonderful world of Vim. If you’re here, it means you’re ready to level up your text editing game and embrace one of the most powerful tools in the coding universe. Vim is fast, flexible, and highly efficient—but it can feel like trying to tame a dragon at first. Let’s change that! 🐉
+> Hello, code explorer! ✨ Welcome to the wonderful world of Vim. If you’re here, it means you’re ready to level up your text editing game and embrace one of the most powerful tools in the coding universe. Vim is fast, flexible, and highly efficient—but it can feel like trying to tame a dragon at first. Let’s change that! 🐉
 
 ---
 
