@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unlock the Power of Vim: Basic Commands Simplified.md"
+title: "Unlock the Power of Vim: Basic Commands Simplified"
 date: 2024-12-30
 ---
 
