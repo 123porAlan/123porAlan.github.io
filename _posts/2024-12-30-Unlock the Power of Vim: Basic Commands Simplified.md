@@ -60,11 +60,13 @@ Here are some essential commands to help you conquer Vim. Open a file with vim f
 * v: Enter VISUAL mode to select text
 * Ctrl + v: Visual block mode (great for column edits)
 ### 🔧 Clipboard Magic
-* "\y: Copy text to the system clipboard (to paste in another program)
+* "\+y: Copy text to the system clipboard (to paste in another program)
 ---
 ## 📚 Practice Makes Perfect
 Vim can feel overwhelming at first, but the key is practice. Open a file, experiment with the commands above, and see how quickly you adapt. Before you know it, you’ll be editing text like a wizard. 🧙‍♂️✨
+
 Remember, Vim is all about efficiency. Every command you learn today saves you countless seconds tomorrow. And in the world of coding, every second counts.
+
 Happy Vimming! 🌌
 
 
